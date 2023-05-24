@@ -6,4 +6,6 @@
 
 # Screenshot
 
+![image](https://github.com/Rishav1707/React-Weather-App/assets/97666287/3fbf1734-3ed8-4bcf-a68d-6c73d08e2fab)
+
 ![image](https://github.com/Rishav1707/React-Weather-App/assets/97666287/5ffa0be1-42ed-460d-8147-59455dfc22e5)
